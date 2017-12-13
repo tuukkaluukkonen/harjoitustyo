@@ -1,0 +1,13 @@
+Log file created: Sat Jul 16 18:01:13 2016
+-------------------------------------------
+Ticks = 40164      <140735119048704> <AMEApp> <0> Time taken to load MediaCore plugins: 39058.7 milliseconds.
+Ticks = 40334      <123145315258368> <LoadProject> <0> 0.0439317s
+Ticks = 40780      <140735119048704> <AMEApp> <1> Entering RunEventLoop
+Ticks = 129910      <123145323843584> <LoadProject> <0> 0.0364356s
+Ticks = 130532      <123145321697280> <ASL.File> <1> GetFileSystemType(): filesystem type is (17, 1) hfs
+Ticks = 130541      <123145321697280> <UnbufferedWriter::OpenExisting()> <1> blocksize 20971520
+Ticks = 502241      <123145321697280> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 371.734 seconds. Result code: 0 Destination:/Users/TuukkaLuukkonen/Documents/Adobe/Premiere Pro/10.0/GOPR8108_1.mov
+Ticks = 505265      <140735119048704> <AMEApp> <1> Exited RunEventLoop
+-------------------------------------------
+Log file closed: Sat Jul 16 18:09:39 2016
+

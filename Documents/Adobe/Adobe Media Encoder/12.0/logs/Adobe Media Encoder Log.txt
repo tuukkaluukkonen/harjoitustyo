@@ -1,0 +1,15 @@
+Log file created: Sat Nov 11 14:34:18 2017
+-------------------------------------------
+Ticks = 619      <140736629691328> <DS> <5> GPUSniffer launching with test mask 126
+Ticks = 36224      <140736629691328> <AMEApp> <0> Time taken to load MediaCore plugins: 34843 milliseconds.
+Ticks = 38569      <123145479659520> <LoadProject> <0> 0.0490855s
+Ticks = 39071      <140736629691328> <AMEApp> <1> Entering RunEventLoop
+Ticks = 51326      <123145503805440> <EncoderStateH264> <1> No H/W Codec found for H.264
+Ticks = 95318      <123145514536960> <dvacore.StructuredLogging> <4> We have timed out on an async source. This probably shouldn't happen and will result in performance problems, media: DJI_0004.MP4, frame: 1214
+Ticks = 153346      <123145479122944> <dvacore.StructuredLogging> <4> We have timed out on an async source. This probably shouldn't happen and will result in performance problems, media: DJI_0004.MP4, frame: 1213
+Ticks = 202799      <123145483952128> <dvacore.StructuredLogging> <4> We have timed out on an async source. This probably shouldn't happen and will result in performance problems, media: DJI_0004.MP4, frame: 1213
+Ticks = 211225      <123145503805440> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 159.905 seconds. Result code: 0 Destination:/Users/TuukkaLuukkonen/Desktop/DJI_0004.mp4
+Ticks = 908370      <140736629691328> <AMEApp> <1> Exited RunEventLoop
+-------------------------------------------
+Log file closed: Sat Nov 11 14:49:26 2017
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+
+<values>
+  <System>
+    <GUID>
+      <NodeID>"206096346733812"</NodeID>
+    </GUID>
+  </System>
+  <ColorTransforms>
+    <AlwaysUpsampleToPoT>"0"</AlwaysUpsampleToPoT>
+  </ColorTransforms>
+</values>

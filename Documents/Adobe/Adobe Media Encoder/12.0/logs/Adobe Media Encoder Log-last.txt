@@ -1,0 +1,19 @@
+Log file created: Sun Oct  1 21:37:34 2017
+-------------------------------------------
+Ticks = 27695      <140736059937728> <AMEApp> <0> Time taken to load MediaCore plugins: 26476.4 milliseconds.
+Ticks = 27880      <123145462247424> <LoadProject> <0> 0.0732461s
+Ticks = 28420      <140736059937728> <AMEApp> <1> Entering RunEventLoop
+Ticks = 65545      <123145513758720> <EncoderStateH264> <1> No H/W Codec found for H.264
+Ticks = 308580      <123145520734208> <dvacore.StructuredLogging> <4> We have timed out on an async source. This probably shouldn't happen and will result in performance problems, media: DJI_0037.MOV, frame: 356
+Ticks = 309040      <123145520734208> <dvacore.StructuredLogging> <4> We have timed out on an async source. This probably shouldn't happen and will result in performance problems, media: DJI_0037.MOV, frame: 354
+Ticks = 336228      <123145479954432> <dvacore.StructuredLogging> <4> We have timed out on an async source. This probably shouldn't happen and will result in performance problems, media: DJI_0037.MOV, frame: 284
+Ticks = 1045449      <123145513758720> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 979.934 seconds. Result code: 0 Destination:/Users/TuukkaLuukkonen/Desktop/GOPR0885_7.mp4
+Ticks = 1268027      <123145462247424> <LoadProject> <0> 0.0824899s
+Ticks = 1271385      <123145466540032> <EncoderStateH264> <1> No H/W Codec found for H.264
+Ticks = 1551133      <123145481027584> <dvacore.StructuredLogging> <4> We have timed out on an async source. This probably shouldn't happen and will result in performance problems, media: DJI_0037.MOV, frame: 296
+Ticks = 1551369      <123145493905408> <dvacore.StructuredLogging> <4> We have timed out on an async source. This probably shouldn't happen and will result in performance problems, media: DJI_0037.MOV, frame: 294
+Ticks = 2307443      <123145466540032> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1036.09 seconds. Result code: 0 Destination:/Users/TuukkaLuukkonen/Desktop/GOPR0885_8.mp4
+Ticks = 2616650      <140736059937728> <AMEApp> <1> Exited RunEventLoop
+-------------------------------------------
+Log file closed: Sun Oct  1 22:21:11 2017
+
