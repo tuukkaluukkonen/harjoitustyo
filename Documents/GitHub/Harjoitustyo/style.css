@@ -9,7 +9,22 @@
     border: 2px;
 }
 
-@media (max-widht: 600px) {
-    .carousel-caption{ display: none;
-    }
+#link-images{
+    max-width: 300px;
+    margin: 1% auto;
+}
+
+.container{
+    margin: 4% auto;
+}
+ #events{
+    position:relative;
+    bottom:50%;
+     width: 140px;
+}
+     
+#image-container{
+    width: 300px;
+    text-align: center;
+   
 }
