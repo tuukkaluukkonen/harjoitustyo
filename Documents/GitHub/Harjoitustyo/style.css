@@ -26,19 +26,21 @@
 nav{
     color: darkgray;
     background-color: black;
+    box-shadow: 0px 3px 9px #181818;
 }
 
 footer{
     width: 100%;
-    background-color: gray;
+    background-color: #F7F8F9;
     padding: 3%;
-    color: white;
+    color: #181818;
+    box-shadow: 0px -2px 9px #181818;
 }
 
 .fa{
     padding: 20px;
     font-size: 30px;
-    color: white;
+    color: #181818;
 }
 
 .fa:hover{
