@@ -10,21 +10,39 @@
 }
 
 #link-images{
-    max-width: 300px;
-    margin: 1% auto;
+    margin: 2% auto;
 }
 
 .container{
     margin: 4% auto;
 }
- #events{
-    position:relative;
-    bottom:50%;
-     width: 140px;
+#events{
+    position: relative;
+    top: -50%;
+   
+   
 }
      
-#image-container{
-    width: 300px;
-    text-align: center;
-   
+nav{
+    color: darkgray;
+    background-color: black;
+}
+
+footer{
+    width: 100%;
+    background-color: gray;
+    padding: 3%;
+    color: white;
+}
+
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+}
+
+.fa:hover{
+    color: #D5D5D5;
+    text-decoration: none;
+    
 }
