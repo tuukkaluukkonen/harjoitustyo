@@ -1,3 +1,7 @@
+body{
+    font-family: 'Barlow', sans-serif;
+}
+
 .carousel-caption {
     top: 50%;
     transform: translateY(-50%);
@@ -39,7 +43,6 @@ footer{
 
 .fa{
     padding: 20px;
-    font-size: 30px;
     color: #181818;
 }
 
